@@ -218,11 +218,11 @@ footer {
      width: 85%;
 }
 #paragraph{
-    color:#cc6633;
-    position:absolute;
-    z-index:1;
-    left:30%;
-    top:10%;            
+    color: #cc6633;
+    position: absolute;
+    z-index: 1;
+    left: 30%;
+    top: 10%;            
 }
 }
 /**********************************************************************/
@@ -252,11 +252,11 @@ footer {
      margin-bottom: 25px;
 }
 #paragraph{
-    color:#cc6633;
-    position:absolute;
-    z-index:1;
-    left:20%;
-    top:40%;
+    color: #cc6633;
+    position: absolute;
+    z-index: 1;
+    left: 20%;
+    top: 40%;
 }
 /*About*/
 #ABOUT{
@@ -326,27 +326,27 @@ footer {
     position: absolute;
     z-index: 2;
     padding: 20px;
-    margin-top: 15%; 
+    margin-top: 10%; 
     border-radius: 5px;
     color: #eee;    
 }      
 }
 @media screen and (max-width: 900px) {
 #paragraph{
-    color:#cc6633;
-    position:absolute;
-    z-index:1;
-    left:15%;
-    top:35%;
+    color: #cc6633;
+    position: absolute;
+    z-index: 1;
+    left: 15%;
+    top: 35%;
 }
 }
 @media screen and (max-width: 850px) {
 #paragraph{
-    color:#cc6633;
-    position:absolute;
-    z-index:1;
-    left:15%;
-    top:35%;
+    color: #cc6633;
+    position: absolute;
+    z-index: 1;
+    left: 15%;
+    top: 35%;
 }
 }
 /**********************************************************************/
@@ -375,11 +375,11 @@ footer {
      color: #000;
 }
 #paragraph{
-    color:#cc6633;
-    position:absolute;
-    z-index:1;
-    left:5%;
-    top:35%;
+    color: #cc6633;
+    position: absolute;
+    z-index: 1;
+    left: 5%;
+    top: 35%;
 }
 /*About*/
 #ABOUT{
@@ -414,7 +414,7 @@ footer {
     position: absolute;
     z-index: 2;
     padding: 20px;
-    margin-top: 15%; 
+    margin-top: 20%; 
     border-radius: 5px; 
     color: #eee; 
     font-size: 13pt;
@@ -467,7 +467,7 @@ footer {
     background: none;
     outline: none;
     color: #555;
-    font-family: "Times New Roman";
+    font-family: Times New Roman;
     cursor: pointer;
     text-shadow: 1px 1px #eee;
     font-size: 10pt;
