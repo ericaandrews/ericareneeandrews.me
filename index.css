@@ -1,4 +1,3 @@
-/*
 #body {
      font-family: Times New Roman;
      color: #444;
@@ -7,7 +6,6 @@
      background-size: cover;
      font-size: 10pt;
 }
-*/
 #bodywebgallery {
      font-family: Times New Roman;
      color: #444;
@@ -15,19 +13,9 @@
      font-size: 10pt;
      background-color: #000;
 }
-/*
-#header {
-    background-image: url('bw.gif');
-    height: 800px;
-    background-size: cover;
-}
-*/
-/*
 #h1 {
      font-size: 25pt;
 }
-*/
-/*
 #home {
      text-align: center;
      width: 80%;
@@ -38,8 +26,6 @@
      border-radius: 5px 70px 5px;
      padding: 7px;
 }
-*/
-/*
 #contact {
      text-align: center;
      width: 80%;
@@ -51,8 +37,6 @@
      border-radius: 5px 70px 5px;
      padding: 7px;
 }
-*/
-/*
 #contactGallery {
      text-align: center;
      width: 80%;
@@ -64,8 +48,6 @@
      border-radius: 5px 70px 5px;
      padding: 7px;
 } 
-*/
-/*
 #about {
      text-align: center;
      width: 80%;
@@ -76,7 +58,6 @@
      border-radius: 5px 70px 5px;
      padding: 7px;
 } 
-*/
 footer {
      text-shadow: 1px 1px #eee;
      color: #555;
@@ -109,11 +90,9 @@ footer {
      float: right;
      margin-right: 10px;
 }
-/*
 #inputtextarea {
      width: 80%;
 } 
-*/
 #img {
      border: 3px #ccc solid;
 } 
@@ -220,33 +199,24 @@ footer {
 #ul li.about, #ul li.home {
      float: left;
 }
-/*
 #home {
      margin-left: 13%;
      width: 85%;
 }
-*/
-/*
 #about {
      margin-top: 25px;
      margin-left: 13%;
      width: 85%;
 }
-*/
-/*
 #footer {
      margin-left: 13%;
      width: 85%;
 }
-*/
-/*
 #contact {
      margin-top: 25px;
      margin-left: 13%;
      width: 85%;
 }
-*/
-/*
 #paragraph{
     color: #cc6633;
     position: absolute;
@@ -254,7 +224,6 @@ footer {
     left: 30%;
     top: 10%;            
 }
-*/
 }
 /**********************************************************************/
 /*tablet view*/
@@ -267,28 +236,21 @@ footer {
 #ul li {
     float: left;
 }
-/*
 #home {
      background-image: url('blackWhiteImages/IMG_2294.jpg');
      background-size: 300%;
      margin-bottom: 25px;
 }
-*/
-/*
 #about {
      background-image: url('blackWhiteImages/IMG_2294.jpg');
      background-size: 300%;
      margin-bottom: 25px;
 }
-*/
-/*
 #contact {
      background-image: url('blackWhiteImages/IMG_2294.jpg');
      background-size: 300%;
      margin-bottom: 25px;
 }
-*/
-/*
 #paragraph{
     color: #cc6633;
     position: absolute;
@@ -296,7 +258,6 @@ footer {
     left: 20%;
     top: 40%;
 }
-*/
 /*About*/
 #ABOUT{
     margin-left: 65%;
@@ -371,7 +332,6 @@ footer {
 }      
 }
 @media screen and (max-width: 900px) {
-/*
 #paragraph{
     color: #cc6633;
     position: absolute;
@@ -379,10 +339,8 @@ footer {
     left: 15%;
     top: 35%;
 }
-*/
 }
 @media screen and (max-width: 850px) {
-/*
 #paragraph{
     color: #cc6633;
     position: absolute;
@@ -390,7 +348,6 @@ footer {
     left: 15%;
     top: 35%;
 }
-*/
 }
 /**********************************************************************/
 /*mobile view*/ 
@@ -399,31 +356,24 @@ footer {
      padding: 10px;
      transition: top 0.2s;
 }
-/*
 #home {
      background-image: url('blackWhiteImages/IMG_2294.jpg');
      background-size: 420%;
      margin-bottom: 25px;
      color: #000;
 }
-*/
-/*
 #contact {
      background-image: url('blackWhiteImages/IMG_2294.jpg');
      background-size: 420%;
      margin-bottom: 25px;
      color: #000;
 }
-*/
-/*
 #about {
      background-image: url('blackWhiteImages/IMG_2294.jpg');
      background-size: 420%;
      margin-bottom: 25px;
      color: #000;
 }
-*/
-/*
 #paragraph{
     color: #cc6633;
     position: absolute;
@@ -431,7 +381,6 @@ footer {
     left: 5%;
     top: 35%;
 }
-*/
 /*About*/
 #ABOUT{
     margin-left: 55%;
@@ -558,7 +507,6 @@ footer {
 }
 /**********************************************************************/
 /*slide show*/
-/*
 * {
     box-sizing: border-box;
 }
@@ -578,10 +526,8 @@ footer {
     float: left;
     width: 8.33%;
 }
-*/
 
  /*The Slide (background)*/ 
-/*
 .Slide {
     display: none;
     position: fixed;
@@ -594,10 +540,8 @@ footer {
     overflow: auto;
     background-color: #000;
 }
-*/
 
  /*Slide Content */
-/*
 .Slide-content {
     position: relative;
     background-color: #fff;
@@ -605,11 +549,9 @@ footer {
     padding: 0;
     width: 90%;
     max-width: 1200px;
-*/
 }
 
  /*The Close Button */
-/*
 .close {
     color: #fff;
     position: absolute;
@@ -630,10 +572,8 @@ footer {
 .cursor {
     cursor: pointer;
 }
-*/
 
  /* Next & prev buttons */
-/*
 .prevbtn,
 .nextbtn {
     cursor: pointer;
@@ -649,26 +589,20 @@ footer {
     user-select: none;
     -webkit-user-select: none;
 }
-*/
  
 /*Position the "next button" to the right */ 
-/*
 .nextbtn {
     right: 0;
     border-radius: 3px 0 0 3px;
 }
-*/
  
 /* On hover, add a black background color with a little bit see-through */ 
-/*
 .prevbtn:hover,
 .nextbtn:hover {
     background-color: rgba(0, 0, 0, 0.8);
 }
-*/
  
 /* Number text (1/3 etc) */ 
-/*
 .slidenumber {
     color: #fff;
     font-size: 12px;
@@ -693,13 +627,11 @@ img {
 .currentimage:hover {
     opacity: 1;
 }
-*/
 
 /* img.currentimage{transition: 0.3s;}*/
 /* .currentimage:hover{box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}*/
 /*image editing.html nav*/
  
-/*
 .sidenav {
     height: 100%;
     width: 0;
@@ -740,4 +672,4 @@ img {
 .sidenav {
      font-size: 18px;
 }
-}*/
+}
