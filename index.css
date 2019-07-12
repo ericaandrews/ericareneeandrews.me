@@ -77,7 +77,7 @@ footer {
      display: inline-block;
      text-decoration: none;
      text-align: center;
-     padding: 8px;
+     padding: 10px;
      text-shadow: 1px 1px #eee;
 } 
 #ul li a:hover {
@@ -198,6 +198,7 @@ footer {
 }
 #ul li.about, #ul li.home {
      float: left;
+     margin-bottom: 10px;
 }
 #home {
      margin-left: 13%;
