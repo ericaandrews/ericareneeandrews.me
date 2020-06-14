@@ -1,2 +1,2 @@
 # ericareneeandrews.codes
-Portfolio https://www.ericareneeandrews.codes/
+Portfolio http://www.ericareneeandrews.codes/
