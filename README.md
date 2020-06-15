@@ -1,2 +1,2 @@
-# ericareneeandrews.codes
-Portfolio http://www.ericareneeandrews.codes/
+# ericarandrews.tech
+Portfolio http://www.ericarandrews.tech/
